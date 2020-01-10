@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String args[]){
 		
-		System.out.println("Sample First Maven Project");
+		System.out.println("First Sample  Maven Project");
 	}
 	
 }
